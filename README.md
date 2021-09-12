@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kanizfatema872
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Machine Learning and Data Science
-- 💞️ I’m looking to collaborate on to find jobs
+- 💞️ I’m looking to collaborate on to excute task
 - 📫 How to reach me ...
 
 <!---
